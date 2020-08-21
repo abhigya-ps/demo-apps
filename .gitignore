@@ -2,3 +2,4 @@ todo_rest/todo_rest/__pycache__/secrets.cpython-37.pyc
 todo_rest/todo_rest/secrets.py
 react_spring_animations/node_modules
 todo_react_django/env
+REST-API/.env
